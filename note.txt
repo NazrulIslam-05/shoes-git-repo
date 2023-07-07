@@ -1,0 +1,1 @@
+main>article.blog*3>h3{my blog $}+p>lorem10^p>lorem50

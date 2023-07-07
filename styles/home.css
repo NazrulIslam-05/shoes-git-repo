@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+nav ul{
+    display: flex;
+    padding: 0;
+    margin-top: 0%;
+    margin-bottom: 0;
+   
+}
+nav ul li{
+    
+     display: inline;
+     float:left;
+     border-right: 2px solid blue;
+     border-bottom: 3px solid orangered;
+    
+     
+    
+}
+
+nav ul li a{
+    font-size: 26px;
+    text-decoration: none;
+    color:white;
+    background: black;
+    padding: 10px 59.6px;
+    display: block;
+    margin-top: 0%;
+   
+    
+}
+
+ header{
+    font-weight: bolder;
+    font-size: larger;
+}
+
+footer{
+    font-weight: bolder;
+}
+    
+.adidas  {
+    display: flexbox;
+    
+
+}
+.puma{
+    display: inline-block;
+}
+.about p{
+    text-align: justify;
+    width: 300px;
+}
